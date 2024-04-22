@@ -1,5 +1,5 @@
 :root {
-    --image-0: url("https://s3-alpha-sig.figma.com/img/909d/9fa7/129420fdf8ccba0157674255b8243457?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=doLW~GrgevjCLjij4TNpF4ynWJnCooAdzj0b9EY9~~K7icSWEB5Yed6u7cZVxWKTxUyDDHhRv0RMWGCc6-RaFGNJDi15iLBCr04RRl6x0YV-G1DNKfjJHZUg94baJnSFHkbNFKQqBtsFiZZ1Wye7w-f0HZ5R4nMyUw9c7MIwaukU1ylcZ60NPHEiWin8HyRgzscpglEBQP-yM5iACrwhFdehSwr1mevoMklkhCLw~vWG3atEK-qVla93BiSCiHAGKR71ZgFBOdQwXuBGZgSeD5eSjGzVhc8SrX--tvNcowRVNYg6indCmwizjZ8zwl00IOb2RX1RWcoIm9UYZigpNw__");
+    --image-0: url("./images/image1.png");
     --custom-width: min(1280px, 100vw);
     --design-width: 1280;
     --ratio: calc(var(--custom-width) / var(--design-width));
