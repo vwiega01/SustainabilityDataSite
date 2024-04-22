@@ -3,9 +3,9 @@
   They're active for 10-15 days only. You should replace them with the actual images before using the code in production.
 */
 :root {
-  --image-0: url("https://s3-alpha-sig.figma.com/img/3037/5da7/d1c3e8ee22956e4e6945d3f1686b5ce3?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fpXgwUtDMWJOumxzyn5Uf6VQSCMVuimFzi-PwfW3wS3jfFmHbZQ1Fo2Ibr8lgng-z3ykls5~qwAqHdMavJ6rd155Ut7KaRI6URUGwF04uTKWOcO1pW84wSHfL23Gf3LMo9Gfw8KM92kfSxVrwZKswr0cMsf015oEv~TG~M-Jl5kxaUBecEffT5MY1wwP-XejXrKgtgfpD4nyDBl3T3PaRtiXVXal-hbSXVxL6Rwhsbx8PoQEb7yyuXJAFT9pHpa~NEBhKBLnxCU7ffBwa374XsOIr8hhCcdnFtpk4H3goHrXfd0jqpEB4XMe0v3DxPvlGHl0I5WL1wAtkrneAc8K1g__");
-  --image-1: url("https://s3-alpha-sig.figma.com/img/818a/27ff/c9f494b247495fe7a307b603fed1308c?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Rx60vgg7ldnViDNG8LrUGdN0iybkfJHn-h273fTyaP2fGYXazbziCZRM-YFxTO2K4bT8nz4JNEsHJV0q6ZjihvfDFCDTDPrtdYPWA-rvXqsEWFDanR9AQQBEP05Nz0sR56q1rl1wplV398T8nadI7oXtDECvXh9kohFbl8~bB88cgEW5Cq9Cos0NbldQm5tNXJvmFhY57dTWQTbxXg5u4BUPMrMU7qSm0ob3RUTNUryltOSq8CaLIXBMaawvEhXTym5drY4UKY8qngZVAx4xv1~~52ckya9xXYMet3xMbmexT9gbJcpCjlRZCA9O2OJsNote2vr49s4OC08qRqtIVw__");
-  --image-2: url("https://s3-alpha-sig.figma.com/img/fa76/12b3/f1f9f8133011be3c62b3dcb6c07bab8a?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Gf~WyMD28brfmWNSeGCxWiAt-VKkmYvZLGXLaXrWUrTSklkbrs4yGxtoCqbUxaoVS5AJOvORY~Akt2u7uaJIicRjaMHb1N0j~FMQnklFm8gXISPZYVL5bsThNwYFMQWVo4dGVXZKpPTnioEw6B9KIdZ9E4WcwibkAA35vFxE8AJsdK97AHGgLe0mLk1D5zGxszdIxlC2SbTcEyGK9G7bJp2sdoQ1sHDdhGfXk3f08mAcY5gdXnjxIN3xTY4ewEU7UetA53QA8kreRNJRzXHJG7rs3IJKrD1FRAzeP8fgeTDwdp2Uw5nB82J6iorBk2WahrjmvYTy1QFb9EFsdsFamA__");
+  --image-0: url("./images_data/piechart.png");
+  --image-1: url("./images_data/linegraph.png");
+  --image-2: url("./images_data/bargraph.png");
   --custom-width: min(1280px, 100vw);
   --design-width: 1280;
   --ratio: calc(var(--custom-width) / var(--design-width));
