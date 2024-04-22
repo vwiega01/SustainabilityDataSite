@@ -1,0 +1,39 @@
+@keyframes animation-1145 {
+  from {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    background: #ffffffff;
+  }
+  to {
+    width: 21.17%;
+    height: 1.69%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 12;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+}
+.animationClass-1145 {
+  animation: animation-1145 0.001s linear 0s normal forwards;
+}
+@keyframes animation-pdiv-1145 {
+  from {
+    height: calc(2.91 * var(--custom-width));
+  }
+  to {
+    height: calc(0.23 * var(--custom-width));
+  }
+}
+
+.parent-animation-1145 {
+  animation: animation-pdiv-1145 0.001s linear 0s normal forwards;
+}
